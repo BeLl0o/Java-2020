@@ -3,7 +3,7 @@
 
 Please write your notes here, everyday create a file named `20XX-XX-XX.md`.
 
-In the note, I should describe you work as clear as possible, for example, for the `abstract` , you could write:
+In the note, You should describe your work as clear as possible, for example, for the `abstract` , you could write:
 
 ```
 Abstract: keyword, use to decorate a class, which exist some methods will be implemented by sub-class.
@@ -17,7 +17,7 @@ instead of:
 Today, I learned abstract keyword
 ```
 
-Review you note after you wrote it.
+Review you note after finish it.
 
 #### Submission format
 
