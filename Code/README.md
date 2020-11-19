@@ -1,7 +1,7 @@
 ## Code Folder
 #### File format
 
-Please write your practice code here, follow the `2020-XX-XX` format to create each daily folder, such as `2020-11-17`. In each daily folder, create sub-folders for each projects, use full and descriptive name for them, such as `book_p139_exception_finally_test` or `abstract_class_for_shape_circle_rectangle`. Every `.java` and `.class` files should belong to one of the sub-folders.
+Please write your practice code here, follow the `2020-XX-XX` format to create each daily folder, such as `2020-11-17`. In each daily folder, create sub-folders for each projects, use full and descriptive name for them, such as `BookP139ExceptionFinallyTest` or `AbstractClassForShapeCircleRectangle`. Every `.java` and `.class` files should belong to one of the sub-folders.
 
 In every source file, you should add the following comment on the top of your code:
 
